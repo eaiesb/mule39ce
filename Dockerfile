@@ -1,4 +1,4 @@
-FROM eaiesbhub/mule-meeseva
+FROM eaiesbhub/mule39ce
 MAINTAINER Kiran Kumar Padam
 EXPOSE 8080 8081 9091 9092
 
